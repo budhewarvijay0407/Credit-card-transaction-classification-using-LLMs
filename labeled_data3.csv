@@ -1,0 +1,464 @@
+,clean_data_l2,final_label
+0,Ssbtrustops Orig ID:  Desc Date: CO Entry Descr:P/R Contr Sec:CCD Trace: Eed: Ind Name:Marner Holdings Trn: ,Bank to Bank - Personal transaction
+1,Check No.  A,Personal Expense
+2,MERCHANT BNKCD DES:FEE ID: INDN:PLANET SMOOTHIE  CO .,Food bill
+3,INTUIT PAYROLL S DES:QUICKBOOKS ,Personal Expense
+4, .,Personal Expense
+5,Orig CO Name: Rp Shopify Orig ID: Descr: Transfer Sec:CCD Trace: Ind ID:StYFRJFD Ind Name:Marner Holdings Inc Trn: ,Online purchase
+6,"Orig CO Name:Gusto Orig D: Desc Date: CO Entry Descr:Net ,. ",Deposit
+7,Orig CO Name:Gusto Orig ID: Desc Date: CO Entry Descr:Fee Sec:CCD Trace: Eed: Ind ID:SemjqOR Ind Name:Marner Holdings Inc,Personal Expense
+8,"Orig CO Name:Shopify Capital Orig ID: Desc Date: CO Entry ,. Descr:RuSrbG Sec:CCD  Trace: Eed: ",Online purchase
+9,WT  Scotiabank Inverlat /Bnf=Invekta Factorante ,Bank to Bank - Personal transaction
+10,Orig CO Name: Shoppayinst Afrm Orig ID: Descr: Payments Sec:CCD Trace: Ind ID:XhylyTlzHdkh Ind Name:Rue Porter Trn: ,Online purchase
+11,Card Purchase Fede   TN Card ,Online purchase
+12,ENHANCED CAPITAL DES:ENHANCED C ID: ,Bank to Bank - Personal transaction
+13,WWW.ALPHAVANTAGE.CO CAMBRIDGE MA ,Online purchase
+14,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+15,MERCHANT BNKCD ,Online purchase
+16,Bill Pay Chase Card Servi onLine Xooo on ,Online purchase
+17,Capital One  Phone Pymt  CCD ,Personal Expense
+18,AplPay CHATGPT SUBSCRIPTION SAN FRANCISCO CA ,Online purchase
+19,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+20,CITIBANK CREDIT CARD Bill Payment,Gas bill
+21,Orig CO Name: Shoppayinst Afrm Orig ,Online purchase
+23,Online Transfer To Chk  ,Bank to Bank - Personal transaction
+24,Purchase authorized on / Primrose Woodstock  GA S Card ,Online purchase
+25,Check ,Personal Expense
+26,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+27,CHECK NO.  A,Personal Expense
+28,Card Purchase Fede   TN Card ,Online purchase
+29,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+30,Bill Pay Cherokee County Water & Sewage A onLine o on ,Gas bill
+31,"Orig CO Name: Apintego, Descr: Achtrans, Ind Name: Marner Holdings Inc",Bank to Bank - Personal transaction
+32,Online Transfer From Chk  Transaction:  .,Bank to Bank - Personal transaction
+33,AUTHNET GATEWAY  DES:BILLING ,Online purchase
+34,CYBERAINC DES: ,Online purchase
+35,Card Purchase Uline Ship Supplies  WI Card ,Online purchase
+37,CHECKS PAID   ~,Personal Expense
+38,"Card Purchase at Mission Clay Mcpu,  CA, Card ",Online purchase
+39, Payment To Chase Card Ending IN ,Credit Card Payment
+40,STARBUCKS STORE  LAGUNA BEACH CA ,Food bill
+41,Orig CO Name:American Epress Orig ID: Desc Date: CO Entry ,Online purchase
+42,Battery rd Base DES:WEB PMTS ID:FR INDN:New Age Vending LLC CO ID:,Online purchase
+44,Zelle Payment To Eddie Rojas ,Bank to Bank - Personal transaction
+45,MERCHANTS FOODSE DES:MERCHANTS ID:FT)( ,Food bill
+46,Card Purchase  Facebk YFTywf Fb.ME/Ads CA Card ,Online purchase
+47,Transfer To Acct Ending IN ,Bank to Bank - Personal transaction
+48,Card Purchase  Oakland Plan/Bldg Oakland CA Card ,Online purchase
+49,/ Online International Wire Transfer ,Bank to Bank - Personal transaction
+50,DAVIS PAYROLL DES:CASH C&D D: INDN:NEW AGE VENDING co,Deposit
+52,Check ,Personal Expense
+53,Check no.  A,Personal Expense
+54,Check number ,Personal Expense
+55,Check  ,Personal Expense
+56,/ Card Purchase ,Online purchase
+57, VANTIV_INTG_PYMT DES:BILLNG D: INDN:New Age Vending LLC CO . ,Online purchase
+58,Check  A,Bank to Bank - Personal transaction
+59,Card Purchase Facebk VmfueTU  CA,Online purchase
+60,KAHALA CORP ,Online purchase
+62,Card Purchase at Google Gsuite_Ruepo Cc@Google.Com CA,Online purchase
+63,Check   ,Personal Expense
+64,Orig CO Name:Shoppayinst Afrm Orig D: Desc Date: CO Entry . ,Online purchase
+65,"Orig CO Name:Ferrari Financia Orig ID: Desc Date: CO Entry Descr:Lease Paymsec:PPD Trace: Eed: Ind ID: Ind Name:Rojas Hernandez, Eduar Trn: Tc",Personal Expense
+66,Card Purchase ,Online purchase
+67,Online Banking transfer to CHK  ,Bank to Bank - Personal transaction
+68,Bill Pay Biz Credit Card onLine Xooooooo on ,Online purchase
+69,"Online Domestic Wire Transfer Via: Bk Amer Nyc/ A/C. Archimia P.A., Miami FL  US Ref: Westfield Wheaton Architect Fees Imad: BQgcC Trn: Es",Bank to Bank - Personal transaction
+70,Check No.  A,Personal Expense
+71,MERCHANT BNKCD DES:FEE	ID: INDN:PLANET SMOOTHIE  CO ,Food bill
+72,DD DOORDASH FARMERBOY SAN FRANCISCO CA ,Food bill
+73,Bill Pay American Epress Biz Green Card onLine  on ,Online purchase
+74,"ACCOUNTANTSWORLD DES:PAYROLLDBT ID: INDN:NEW AGE VENDING LLC CO ,.",Personal Expense
+75,"PLUMREWARD, LLC ",Online purchase
+76,Capital One Arc Check Pymt Arc ID: ,Online purchase
+77,Bill Pay Capital One Credit Card onLine Xooooooo on ,Online purchase
+78,Check  ,Personal Expense
+79,Check  ,Personal Expense
+80,Online Transfer To Chk  Transaction; ,Bank to Bank - Personal transaction
+81,"Online Domestic Wire Transfer Via: Usaa Fedl Sa/ A/C:. Gregory Hunter Gostomski Riverview FL  US Ref: Reimbursement , Imad: BQgcC Trn: Es",Bank to Bank - Personal transaction
+82,Card Purchase ,Online purchase
+83,Orig CO Name:Gusto Orig ID: Desc Date: CO Entry Descr:Ta Sec:CCD Trace: Eed: Ind ID:Semjqcjtu Ind Name:Marner Holdings Inc,Deposit
+84,/ Payment To Chase Card Ending IN ,Personal Expense
+85,CHECKS PAID    A,Personal Expense
+86,Bill Pay American Epress Biz Platinum onLine  ,Online purchase
+87,Bill Pay Chase Card Services onLine X on ,Online purchase
+88,Recurring Card Purchase  Wi.Com PremiumPlan Www.Wi.Com CA Card ,Online purchase
+89,Bill Pay American Epress onLine oo on ,Online purchase
+90,Check   .,Personal Expense
+91,"PLUMREWARD, LLC DES:SALE ID: INDN:EW AGE VENDING LLC PS CO ID: CCD",Online purchase
+92,Card Purchase  Fede   TN Card ,Online purchase
+93,Purchase authorized on / Global Domains Int  CA S Card ,Online purchase
+94,Check No.  ~,Personal Expense
+95,"MERCHANTS FOODSE DES:MERCHANTS ID:FTXOOOXXXXX INDN:NEW AGE VENDING LLC CO ,.",Food bill
+96,Irs Usatapymt  CCD ,Deposit
+97,Online Domestic Wire Transfer Via: Citibank West Fsb/ A/C: Kaner Apelacio ,Bank to Bank - Personal transaction
+98,Card Purchase  Sq Sol West Hollywoo CA Card ,Online purchase
+99,AMERICAN EXPRESS ,Online purchase
+100,Check ,Personal Expense
+101,CHECK NUMBER nDATE nAMOUNT $.,Personal Expense
+102,"Bill Pay Td Bank, NA onLine Xooooo on ",Bank to Bank - Personal transaction
+103,Card Purchase Fede   TN Card ,Online purchase
+104,"Card Purchase With Pin at EviSan Manuel, Highland CA Card ",Online purchase
+105,Orig CO Name:Shopify Capital ,Online purchase
+106,"Online Transfer From Chk  Transaction:  ,.",Bank to Bank - Personal transaction
+107,Check ,Bank to Bank - Personal transaction
+108,ATM Withdrawal authorized on /  Sandy Plains Rd ,Personal Expense
+109,Card Purchase  GoogleGsuite Lerambou Internet CA Card ,Online purchase
+110,B OF A COMMERCIAL LOAN TRAN       ,Bank to Bank - Personal transaction
+111,Card Purchase All IN One Suppliers  NY Card ,Online purchase
+112,DAVIS PAYROLL PR DES:Payroll ID: INDN:NEW AGE VENDING 	CO,Deposit
+113,Bill Pay Chase Card Servi onLine Xooooooo on ,Online purchase
+114,"Returned ltem Fee For An Unpaid Check  IN The Amount of $,.",Personal Expense
+115,"NonChase ATM Withdraw R Do Bolhao,  Porto Card ",Personal Expense
+116,Original Company Name: Shopify Capital. Original ID: . Description Date: . Entry Description: RejqeeH. Secondary Code: CCD. Individual ID: . Individual Name: Marner Holdings Inc. Transaction: Tc.,Online purchase
+117,"PAYROLLTAX DES:TAX DEBIT ID: INDN:NEW AGE VENDING LLC CO ,. ",Personal Expense
+118,Overdraft Xfer From Credit Card OR Line ,Bank to Bank - Personal transaction
+119,"Orig CO Name:American Epress Orig ID: Desc Date: CO Entry ,. Descr:ACH Pmt Sec:Web  Trace: Eed: Ind ID:M Ind Name:Kaner Apelacio",Personal Expense
+120,Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk  Columbus Newark De ,Bank to Bank - Personal transaction
+121,Fede   TN Card ,Online purchase
+122,"Orig CO Name: Afterpay US, Inc Orig ID:  Desc Date:  CO Entry Descr: CCD Sec: CCD Trace:  Eed:  Ind ID: Ind Name: Rue Porter Afterpay  Rue Porter",Online purchase
+123,Bill Pay Nbsc  A Division of Synovus Ban onLine  onn.,Gas bill
+124,Card Purchase ,Online purchase
+125,Att              Payment    Clars  Tel ID: ,Online purchase
+126,Orig CO Name: Apintego Orig ID:  Desc Date:  CO Entry Descr: Achtrans Sec: CCD Trace:  Eed:  Ind ID:  Ind Name: Marner Holdings Inc,Bank to Bank - Personal transaction
+127,Check   ,Personal Expense
+128,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+129,Orig CO Name:Shopify Capital Orig ID: Desc Date: CO Entry Descr:RoeteQlj Sec:CCD Trace: Eed: Ind ID: Ind Name:Marner Holdings Inc Trn: ,Online purchase
+130,Orig CO Name:Apintego Orig ID: Desc Date: CO Entry Descr:Achtrans Sec:CCD Trace: Eed: Ind ID: Ind Name:Marner Holdings Inc,Bank to Bank - Personal transaction
+131,Online Domestic Wire Transfer Via: Suntrust Atl/ ,Bank to Bank - Personal transaction
+132,Bill Pay American Epress Biz Blue Card onLine ooocooo,Online purchase
+133,Card Purchase Fede   TN Card ,Online purchase
+134,INTUIT PAYROLL S DES:QUICKBOOKS ,Personal Expense
+135,Bill Pay American Epress onLine  on ,Online purchase
+136,Returned Item Fee For An Unpaid $. ltem  Details: Hmfusa.Com PPD ID: ,Bank to Bank - Personal transaction
+137,Bill Pay American Epress onLine  on ,Online purchase
+138,Check ,Personal Expense
+139,Card Purchase Fede   TN Card ,Online purchase
+140,Check   Citicard Payment Check Pymt Arc ID: Citichcktc ,Personal Expense
+141,WIRE TYPE:WIRE OUT DATE: TIME: ET ,Bank to Bank - Personal transaction
+142,Check ,Personal Expense
+143,Check  ,Personal Expense
+145,Facebk MkPU  CA Card ,Online purchase
+146,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+147,Foreign Ech Rt ADJ Fee  Vaccarum Porto Card ,Personal Expense
+148,AMERICAN EXPRESS DES:AXP DISCNT ID: INDN:PLANET SMOOT CO . ,Online purchase
+149,AMERICAN EXPRESS DES:AXP DISCNT ID: INDN:PLANET SMOOT CO .,Online purchase
+150,"PLUMREWARD, LLC DES:SALE ID: INDN:NEW AGE VENDING LLC PS CO ID:",Online purchase
+151,"DAVIS PAYROLL PR DES:Payroll D: INDN:NEW AGE VENDING CcoO ,.",Deposit
+152,AMERICAN EXPRESS DES:AXP DISCNT ID: INDN:PLANET SMOOT CO . ,Gas bill
+153,authorized on /  Highway  Woodstock GA  ATM ID B Card ,Deposit
+154,Orig CO Name:Rp Shopify Orig ID: Desc Date: CO Entry Descr:Transfer Sec:CCD Trace: Eed: Ind ID:StOHNWOU Ind Name:Marner Holdings Inc Trn: Tc,Online purchase
+155,"Consumer Online International Wire Via: Wells Fargo NA/ A/C: Neil C Mathura Pembroke Pines FL  US Ref:/Acc/Org CR Pty Aba/ Wellstargo Bank, National Associat   E Nine Mile Rd/Time/: Imad: BQgcC Trn: Es",Bank to Bank - Personal transaction
+156,Purchase authorized on / Primrose Woodstock ,Online purchase
+158,Zelle Payment To Kaner Vonap Jpm,Bank to Bank - Personal transaction
+159,/ Card Purchase ,Online purchase
+160,Employment Devel Edd Eftpmt  CCD ID: ,Deposit
+161,NEW AGE VENDING LLC I Account    ,Online purchase
+162,/ Check ,Personal Expense
+163,"Orig CO Name: ChubbSci Orig ID:  Desc Date:  CO Entry ,. Descr: lns.Prem Sec: CCD Trace:  Eed:  Ind ID: Sci Ind Name: Marner Holdings Inc",Personal Expense
+164,PLAN FEE BTDD DOORDAS,Food bill
+165,Check  ,Personal Expense
+166,Zelle Payment From Kelly Sotelo Laguna WfctCHsvn .,Bank to Bank - Personal transaction
+167,PAYROLLTAX DES:TAX DEBIT ID: INDN:NEW AGE VENDING LLC CO ,Personal Expense
+168,Card Purchase ,Online purchase
+169,Bill Pay Ame Platinum onLine ocoo on ,Credit Card Payment
+170,Autozone    Lo Spring TX Card ,Online purchase
+171,Common Sense Pub EDI Pymnts  ,Food bill
+172,"Orig CO Name:Affirm, Inc Orig ID: Desc Date: CO Entry Descr:Payments Sec:CCD Trace: Eed: Ind ID:LtssfiFFjCed Ind Name:Rue Porter Trn: ",Online purchase
+173,Bill Pay Cenlar FSB onLine c on ,Personal Expense
+174,Bill Pay Discover Card Services onLine Xooo on ,Online purchase
+175, A  .,Personal Expense
+176,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+177,Card Purchase  WeworkWework Commons  NY Card ,Online purchase
+178,Check ,Bank to Bank - Personal transaction
+179,MERCHANT BNKCD DES:FEE ID: INDN:PLANET SMOOTHIE  CO ID: CCD,Food bill
+180,NETFLIX.COM ,Online purchase
+181,Bill Pay Discover Card Services onLine X,Online purchase
+182,Check ,Bank to Bank - Personal transaction
+183,Check No.  A,Personal Expense
+184,Check no.  A,Personal Expense
+185,PAYROLLTAX DES:TAX DEBIT ID: INDN:NEW AGE VENDING LLC CO ID: CCD,Personal Expense
+186,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+187,Insufficient Funds Fee For A $. ltem  Details: Att Payment Clarg Tel ID: ,Personal Expense
+188,"/ Online Transfer To Chk  Transaction:  ,.",Bank to Bank - Personal transaction
+189,Bill Pay Pennymac Loan Services onLine  on ,Personal Expense
+190,PAYROLLBILLING DES:BILLING ID: INDN:NEW AGE VENDING LLC CO ,Deposit
+191,"Orig CO Name:Shopify Capital Orig ID: Desc Date: CO Entry ,. ",Online purchase
+192,"Card Purchase  The Butcher, The Baker  CA Card ",Food bill
+193,ACCOUNTANTSWORLD DES:PAYROLLDBT ID: INDN:NEW AGE VENDING LLC CO ,Personal Expense
+194,Bill Pay Cabin Water Bill onLine  on ,Gas bill
+195,Nissan           DES:Auto Loan  ID: ,Personal Expense
+196,Online F Intl Wire Fee  High,Bank to Bank - Personal transaction
+197,Bill Pay Scana Energy onLine ,Gas bill
+198,AMERICAN EXPRESS DES:AXP DISCNT ID: I NDN:PLAN ET SMOOT CO ,Online purchase
+199,OLO  HELP@OLO.C DES:PURCHASE ID:JAMES GAUL INDN:AMES GAUL Cco,Online purchase
+200,Card Purchase With Pin ,Online purchase
+201,Bill Pay Ame Hilton Honors onLine ooooo on ,Online purchase
+202, Withdrawal,Personal Expense
+203,HisHisco Inc  NY Card ,Online purchase
+204," Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk  Columbus Newark De US Org:  Marner Holdings Inc Ben:/Pt Armindo Freitas Ref: Business Epenses/Ocmt/Eur,/Ech/./Cntr Trn: Re",Bank to Bank - Personal transaction
+205,MERCHANTS FOODSE DES:MERCHANTS ID:FT)( I NDN:N EW AGE VENDING LLC CO ID:)( PPD,Food bill
+206,Foreign Ech Rt ADJ Fee / Shahnaz Akter Porto Card ,Personal Expense
+207,Transfer ,Bank to Bank - Personal transaction
+208,arg SPg;'cGhase With Pin ,Online purchase
+209,MERCHANTS FOODSE DES:MERCHANTS ,Food bill
+210,Card Purchase Vogue Cafe Porto Card  Euro . X . (Echg Rte),Food bill
+211,ACH Pmt   Sec:Web    Trace: Eed:   Ind ID:M ,Gas bill
+212,Orig CO Name:Shopify Capital        Orig ID: Desc Date: CO Entry ,Online purchase
+213,Card Purchase  Fede   TN Card ,Online purchase
+214,Fede   TN Card ,Online purchase
+215,Check  ,Personal Expense
+216,MERCHANTS FOODSE DES:MERCHANTS ID:FTXXXXXXXXX INDN:NEW AGE VENDING LLC CO . ,Food bill
+217,Check  ,Personal Expense
+218,MERCHANTS FOODSE DES:MERCHANTS ID:FT)(( INDN:NEW AGE VENDING LLC CO ID:)O( PPD,Food bill
+219,ATM Withdrawal authorized on /  Highway  ,Personal Expense
+220,Orig CO Name: Shoppayinst Afrm Orig ID: Descr: Payments Sec:CCD Trace: Ind ID:YceuJelzornQ Ind Name:Rue Porter Trn: ,Online purchase
+221,BMWFINANCIAL SVS DES:BMWFS PYMT ,Personal Expense
+222,DAVIS PAYROLL PR DES:Payroll ID: INDN:NEW AGE VENDING co .,Deposit
+223,Guideline Inc,Online purchase
+224,TWILIO INC SAN FRANCISCO CA,Online purchase
+226,"Orig CO Name:Gusto Orig ID: Desc Date: CO Entry Descr:Net ,. ",Deposit
+227,Check Number ,Personal Expense
+228,Card Purchase ,Online purchase
+229,"DAVIS PAYROLL PR DES:Payroll ID: INDN:NEW AGE VENDING co ,.",Deposit
+230,Bill Pay Discover Card Services onLine X on ,Online purchase
+231,/ Check                            . .,Personal Expense
+232,CHECK NO.  A,Personal Expense
+233,Check ,Personal Expense
+234,PAYROLLTAX DES:TAX DEBIT ID: INDN:NEW AGE VENDING LLC CO .,Personal Expense
+235,NonWF ATM Balance Inquiry Fee /  E Atlan Delray Beach FL ATM ID Lk Card ,Personal Expense
+236,"Orig CO Name:Shopity Capital Orig ID: Desc Date: CO Entry ,. ",Online purchase
+237,Check number:  A,Personal Expense
+238,VANTIV_INTG_PYMT DES:BILLNG ID: INDN:New Age Vending LLC CO ,Online purchase
+239,A American Epress Arc Pymt   T,Bank to Bank - Personal transaction
+240,"Payment To Chase Card Ending IN  ,.",Bank to Bank - Personal transaction
+242,ONELEGAL CCSALE  CA ,Online purchase
+243,Zelle Payment To Kevin ,Bank to Bank - Personal transaction
+244,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+245,Check  ,Personal Expense
+246,Amazon Marketpla Internet  Web ID: ,Online purchase
+247,Point Tiburon Dir Debit PPD ID: ,Online purchase
+248,"Orig CO Name:American Epress Orig ID: Desc Date: CO Entry ,. ",Online purchase
+249,Online Domestic Wire Transfer Via: Usaa Fedl Sa/ A/C. Gregory Hunter Gostomski Riverview FL  US Imad: BQgcC Trn: Es,Bank to Bank - Personal transaction
+250,SANTANDER DES:CONSUMER ID: INDN:LVNET LLC CO ID: TEL,Bank to Bank - Personal transaction
+251,Pingo Doce Porto Card ,Food bill
+252,CHECK NUMBER:  ,Personal Expense
+253,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+254,CHECK NO.  A,Personal Expense
+255,NCR SILVER ,Online purchase
+256,"Orig CO Name:Gusto, Orig ID:, Descr:Ta , Sec:CCD, Trace:, Ind ID:SemjqEhvm, Ind Name:Marner Holdings Inc",Deposit
+257, ,Bank to Bank - Personal transaction
+258,Bill Pay Nbsc  A Division of Synovus Ban onLine  on ,Gas bill
+259,Employment Devel Edd Eftpmt  CCD ID: ,Deposit
+260,IRS              DES:USATAXPYMT ,Personal Expense
+262,  Check    .,Personal Expense
+263,KAHALA CORP DES:PSM ROY/AD ID:PSM INDN:PSM? PLANET SMOO CO . ,Online purchase
+264,PETCO   MISSION VIEJO CA ,Food bill
+265,BKAMERICA DES:IC PAYMENT ,Bank to Bank - Personal transaction
+266,Bill Pay Fidelity Lion Card onLine X on ,Online purchase
+267,Nordstrom Payment  Tel ID: ,Online purchase
+268,"MERCHANTS FOODSE DES:MERCHANTS ID:FTXOOOXXX INDN:NEW AGE VENDING LLC CO ,.",Food bill
+269,MERCHANT BNKCD DES:DISCOUNT ID: INDN:PLANET SMOOTHIE  CO ,Food bill
+270,Bill Pay Chase Card Servi onLine X on,Online purchase
+271,All IN One Suppliers  NY Card ,Online purchase
+272,Bill Pay Bank of America Credit Card onLine Xoooooo,Bank to Bank - Personal transaction
+273,Card Purchase with Pin ,Online purchase
+274,Usaa P&C Et  Autopay  Tel ID: UsaaPC,Gas bill
+275,Bill Pay Target Credit Card onLine X on ,Online purchase
+276,Recurring Card Purchase  Grasshopper.Com Logmein.Com MA Card ,Online purchase
+277,Orig CO Name:Shopify Capital        Orig ID: Desc Date: CO Entry ,Online purchase
+278,AMERICAN EXPRESS DES:AXP DISCNT ID: INDN:PLAN ET SMOOT CO,Online purchase
+279,INTUIT PAYROLL S DES:QUICKBOOKS ,Personal Expense
+280,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+281,Card Purchase Kfc Campo  Agosto Porto Card  Euro . X . (Echg Rte),Food bill
+282,Bill Pay Wells Fargo Credit Card onLine X on ,Bank to Bank - Personal transaction
+283,Card Purchase Fede   TN Card ,Online purchase
+284,BMWFINANCIAL SVS DES:BMWFS PYMT ,Personal Expense
+286,Card Purchase With Pin ,Online purchase
+287,CASH WITHDRAWAL ,Personal Expense
+288,DEER VALLEY INNTOPIA PARK CITY UT ,Online purchase
+289,Amazon. Com Servi Internet  Web ID: ,Online purchase
+290,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+291,Check ,Personal Expense
+292,Check ,Personal Expense
+293,Orig CO Name:Shopify Capital Orig ID: Desc Date: CO Entry Descr:RromYog Sec:CCD Trace: Eed: Ind ID: Ind Name:Marner Holdings Inc Trn: ,Online purchase
+294,Card Purchase  OshaLess  CA Card ,Online purchase
+295,ACCOUNTANTSWORLD DES:PAYROLLDBT ID: INDN:NEW AGE VENDING LLC CO ID: CCD,Personal Expense
+296,Bill Pay TDS Telecom onLine  on ,Online purchase
+297,Orig CO Name: Rp Shopify Orig ID: Descr: Transfer Sec:CCD Trace: Ind ID:StNPLQTH Ind Name:Marner Holdings Inc Trn: ,Online purchase
+298,"Orig CO Name:Gusto Orig ID: Desc Date: CO Entry Descr: Ta ,. Sec.:CCD  Trace: Eed: Ind ID:SemjgNj Ind Name:Marner Holdings Inc",Personal Expense
+299,Card Purchase ,Online purchase
+300,Check ,Personal Expense
+301,Online Wire Transfer Via: Wells Fargo NA/ ,Bank to Bank - Personal transaction
+302," Honda Pmt Ahfc Pmt PPD ID: A . ,.",Personal Expense
+303,  A ,Bank to Bank - Personal transaction
+305,Zelle Payment To Mary Couselor JpmFpzbt ,Bank to Bank - Personal transaction
+306,Insufficient Funds Fee For Check  IN The Amount of $.,Personal Expense
+307,Card Purchase With Pin  Arco  North Hollywo CA Card ,Gas bill
+308,Check   ,Personal Expense
+309,Bill Pay American Epress Biz Green Card onLine ,Online purchase
+310,AMERICAN EXPRESS DES:AXP DISCNT ID: INDN:PLANET MOT CO,Online purchase
+311,Card Purchase With Pin ,Online purchase
+313, .,Personal Expense
+314,ACCOUNTANTSWORLD DES:PAYROLLDBT ID: INDN:NEW AGE VENDING LLC CO ,Personal Expense
+315,Jurupa Csd Onlin Pmnt  ,Gas bill
+316,Waste Management Internet ,Gas bill
+317,MERCHANT BNKCD DES:DISCOUNT ,Online purchase
+318,Fede   TN Card ,Online purchase
+319,POSTMATES INC. DES: Nov ID:STHCZOGOP INDN:NEW AGE VENDING LLC CO,Food bill
+320,AMERICAN EXPRESS DES:AXP DISCNT ID: INDN:PLANET SMOOT CO .,Online purchase
+321,Recurring Payment authorized on / WpyUltimate Karat .,Online purchase
+322,VANTIV_INTG_PYMT DES:BILLNG ID: INDN:New Age Vending LLC CO ,Online purchase
+323,CHECK NO.  A,Personal Expense
+324,"Zelle Payment To Kaner Vonap Jpm ,.",Bank to Bank - Personal transaction
+325,Check Paid ,Personal Expense
+326,Bill Pay Nbsc  A Division of Synovus Ban onLinenX on ,Gas bill
+327,Bill Pay Tj Rewards onLine Xoooooo,Online purchase
+328,Amazon Marketpla Internet  Web ID: ,Online purchase
+329,Card Purchase Amzn Mktp USQD Amzn.Com/Bill WA Card ,Online purchase
+330,BMWFINANCIAL SVS DES:BMWFS PYMT ,Personal Expense
+331,Directv Directvy  Tel ID: ,Online purchase
+332,Online Domestic Wire Transfer Via: Suntrust Atl/ A/C: Marisol Cruz D/B/A Marisol Cruz Fort Lauderdale FL  US Imad: BQgcC Trn: Es,Bank to Bank - Personal transaction
+333,Check number: ,Personal Expense
+334,Recurring Card Purchase  Linkedin Lnkd.IN/Bill CA Card ,Online purchase
+335,TRAVELERS DES:BUS INSUR ,Personal Expense
+336,Orig CO Name:American Epress ,Online purchase
+337,Zelle to Kitchens Chris on / Ref RpYkQh ,Bank to Bank - Personal transaction
+338,PLAN FEE UPWORK,Online purchase
+339,"Online Domestic Wire Transfer Via: TD Bank, NA/ ",Bank to Bank - Personal transaction
+340,"Online Domestic Wire Transfer A/C: Antonio Zamora Miami, FL  Trn: Es",Bank to Bank - Personal transaction
+341,Check    Discover Arc  Payments Arc ,Gas bill
+342,AMERICAN EXPRESS DES:AXP DISCNT ID: INDN:PLANET SMOOT CO .,Online purchase
+343,Check ,Personal Expense
+344,"PLUMREWARD, LLC DES:SALE ID: ",Online purchase
+345,ATM & DEBIT CARD WITHDRAWALS (continued)startatm debit withdrawal endatm debit withdrawal,Personal Expense
+346,WIRE TYPE:WIRE OUT DATE: TIME: ET TRN: SERVICE REF: ,Bank to Bank - Personal transaction
+347,/ Online Transfer To Chk  Transaction:  .,Bank to Bank - Personal transaction
+348,"Cardmember Serv Web Pymt  nMikula,Jonathan W ",Personal Expense
+349,Check  ,Personal Expense
+350,Card Purchase ,Online purchase
+351,Nissan ,Gas bill
+352,Card Purchase Uber Trip Help.Uber.Com CA Card ,Personal Expense
+353,Check ,Personal Expense
+354,Bill Pay Cenlar FSB onLine ,Personal Expense
+355,Check no.  A,Bank to Bank - Personal transaction
+356,"Online Transfer To Chk  Transaction:  ,.",Bank to Bank - Personal transaction
+357,ELLISON CAPERS GRAYSON ,Bank to Bank - Personal transaction
+358,Card Purchase  Facebk Tjtkpywi Fb.ME/Ads CA Card ,Online purchase
+359,Foreign Ech Rt ADJ Fee  Istore Norteshopping Senhora Hora Card ,Online purchase
+360,Check No. ,Personal Expense
+361,PAYROLLBILLING DES:BILLING ID: INDN:NEW AGE VENDING LLC CO ,Personal Expense
+362,Orig CO Name:Shopify Capital Orig ID: Desc Date: CO Entry Descr:RRnepec Sec:CCD Trace: Eed: Ind ID: Ind Name:Marner Holdings Inc Trn: Tc,Online purchase
+363,MERCHANT BNKCD DES:FEE ,Bank to Bank - Personal transaction
+364,"IRS Treas  Childctc   Mikula, Jonathan ",Deposit
+365,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+366,Check No. ,Personal Expense
+367,Card Purchase With Pin  The Home Depot  Commerce CA Card ,Online purchase
+368,Bill Pay Scana Energy onLine  on  ,Gas bill
+369,Check ,Bank to Bank - Personal transaction
+370,"Recurring Card Purchase  WiWi.Com, Inc.  CA Card ",Online purchase
+371,Online Transter To Chk  Transaction: ,Bank to Bank - Personal transaction
+372,ONELEGAL CCSALE  CA ,Online purchase
+373,Orig CO Name:Shopity Capital Orig ID: Desc Date: CO Entry Descr:Rcg Sec:CCD Trace: Eed: Ind D: Ind Name:Marner Holdings Inc Trn:  Tc,Online purchase
+374,"Orig CO Name:Gusto Orig ID: Desc Date: CO Entry Descr: Ta ,. ",Personal Expense
+375,Online Wire Transfer Via: Bk Amer Nyc/ ,Bank to Bank - Personal transaction
+376,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+377,Bill Pay Fifth Third Bank onLine Xooooo on ,Bank to Bank - Personal transaction
+378,Zelle Payment To Jamael Trainer  ,Bank to Bank - Personal transaction
+379,AplPay AJEH LLC Laguna Hills CA ,Online purchase
+380,"PLUMREWARD, LLC DES:SALE ID: INDN:NEW AGE VENDING LLC PS CO",Online purchase
+381,/ Payment To Chase Card Ending IN ,Personal Expense
+382,Zelle Payment To Kaner Vonap Jpm,Bank to Bank - Personal transaction
+383,MERCHANTS FOODSE DES:MERCHANTS ID:FTXOOOOMXXXX INDN:NEW AGE VENDING LLC CO,Food bill
+384,Card Purchase Fede   TN Card ,Online purchase
+385,Check   .,Personal Expense
+386,"Quuicken Loans Mtg Pymts PPD ID: © ,.",Personal Expense
+387,Online Domestic Wire Transfer Via: Bbva USA/ A/C: Mach  Tempe AZ  US Imad: BQgcC,Bank to Bank - Personal transaction
+388,"Orig CO Name:Shopify Capital, Orig ID: Desc Date: CO Entry Descr:Ramhdotet Sec:CCD Trace: Eed: Ind ID: Ind Name:Marner Holdings Inc Trn: Tc",Online purchase
+389,Card Purchase Mach Global Services  AZ Card ,Online purchase
+390,Card Purchase at End Clothing Newcastle Upo,Online purchase
+391,Check   Capital One Arc Check Pymt Arc ID: ,Bank to Bank - Personal transaction
+392,"MERCHANTS FOODSE DES:MERCHANTS ID:FTXXOXXXXXXX INDN:NEW AGE VENDING LLC CO ,.",Food bill
+393,Withdrawal  ATM Withdrawal ,Personal Expense
+394,Wire Trans Svc Charge  Sequence:  Srf,Bank to Bank - Personal transaction
+396,Hmfusa.Com PPD ID: ,Online purchase
+397,Service fees ,Personal Expense
+398,Check No.  A,Personal Expense
+399,Zelle Payment To Eddie Rojas ,Bank to Bank - Personal transaction
+400,Check ,Personal Expense
+401,Online Wire Transfer Via: Wells Fargo NA/ A/C: Andres Salami Miramar FL  US Ref:/Time/: Imad: BQgcC Trn: Es,Bank to Bank - Personal transaction
+402,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+403,Card Purchase With Pin at EviSan Manuel ,Online purchase
+404,Electronic withdrawal to Irs Usatapymt  CCD ID: ,Personal Expense
+405,A ,Bank to Bank - Personal transaction
+406,Check No.  A,Personal Expense
+407,Citi Autopay Payment  Tel ID: Citicardap,Bank to Bank - Personal transaction
+408,Bill Pay Chase Card Servi onLine Xooooo on ,Online purchase
+409,Orig CO Name:Shopify Capital        Orig ID: Desc Date: CO Entry ,Online purchase
+410,Check ,Bank to Bank - Personal transaction
+411," Jurupa Csd Onlin Pmnt  Web ID:  . ,.",Gas bill
+412,Check ,Personal Expense
+413,Fede   TN Card ,Online purchase
+414,Redwood Mortgage Achuwbeb ,Bank to Bank - Personal transaction
+415,Withdrawal  ATM /  ATB:CITY GROCERY ON:  VIA:  AMT: .,Personal Expense
+416,Citi Card Online Payment  Web ,Online purchase
+417,Bill Pay Waste Management onLine ,Gas bill
+418,"Orig CO Name: Goldenrule, Orig ID: , Desc Date: , CO Entry Descr: Ins Prem, Sec: PPD, Trace: , Eed: , Ind Name: Kaner Apelacio",Personal Expense
+419,CHECK NO.  A,Personal Expense
+420,TRAVELERS ,Personal Expense
+421,Bill Pay Target Credit Card onLine Xoo:c on ,Online purchase
+422,Check   ,Personal Expense
+423,Bill Pay Biz Credit Card onLine Xooooo on ,Online purchase
+424,Barclaycard US ,Online purchase
+425,Recurring Card Purchase ,Online purchase
+426,Orig CO Name:Shopify Capital Orig ID: Desc Date: CO Entry Descr:RFfNpl Sec:CCD Trace: Eed: Ind ID: Ind Name:Marner Holdings Inc Trn: Tc,Online purchase
+427,Online Wire Transfer Via: Wells Fargo NA/ A/C: Daniel Ramirez Hialeah FL  US Ref:/Time/: Imad: BQgcC Trn: Es,Bank to Bank - Personal transaction
+428,Card Purchase  Amzn Mkip USBaC Amzn.Com/Bill WA Card ,Online purchase
+429,Card Purchase ,Online purchase
+430,Recurring Card Purchase / Adobe  Adobe.Ly/Enus CA Card ,Online purchase
+431,AMERICAN EXPRESS DES:AXP DISCNT ID: INDN:PLANET SMOOT CO .,Online purchase
+432,Orig CO Name:Gusto Orig D: Desc Date: CO Entry Descr.Fee . ec.CCD  Trace: Eed: ,Personal Expense
+433,Net ,Online purchase
+434,"AMERICAN EXPRESS Bill Payment ,.",Personal Expense
+435,Card Purchase With Pin  Usps PO   West Hollywoo CA Card  .,Online purchase
+436,Card Purchase With Pin ,Online purchase
+437,Check No.  A,Personal Expense
+438,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+439,Agent Assisted pymt to BkofAm CRD  Confirmation ,Bank to Bank - Personal transaction
+440,Transfer ,Bank to Bank - Personal transaction
+441,AMERICAN EXPRESS DES:AXP DISCNT ID: INDN:PLANET SMOOT CO . ID: CCD,Online purchase
+442,Card Purchase With Pin  Pro Mart Los Angeles CA Card ,Online purchase
+443,Irs Usatapymt  CCD ID: ,Personal Expense
+444,Zelle Payment To Melissa Fw Jpm,Bank to Bank - Personal transaction
+445,Orig CO Name:Shopify Capital Orig ID: Desc Date: CO Entry Descr:Rtbjuwjqu Sec:CCD Trace: Eed: Ind ID: Ind Name:Marner Holdings Inc Trn: Tc,Online purchase
+446,Online Banking transfer to CHK  ,Bank to Bank - Personal transaction
+447,BANK OF AMERICA DES:FINCL ADJ ID: INDN:LV NET LLC CO ID:XXXXXXXXXB CCD,Bank to Bank - Personal transaction
+448,Check No.  A,Personal Expense
+449,Online Transfer To Chk  Transaction: ,Bank to Bank - Personal transaction
+450,"AMERICAN EXPRESS Bill Payment ,.",Gas bill
+451,Recurring Card Purchase  Lzc Legal Plan  CA Card ,Online purchase
+452,"Online Domestic Wire Transfer Via: Wells Fargo NA/ A/C: Neil C Mathura Pembroke Pines FL  US Ref: Reimbursement ./Acc/Org CR Pty Aba/ Wellsfargo Bank, Nat lonal Associat   E Nine Mile Rd/Time/: Imad: BQgcC Trn: Es",Bank to Bank - Personal transaction
+453,Orig CO Name:Shopify Capital        Orig ID: Desc Date: CO Entry ,Online purchase
+454,Check ,Personal Expense
+455,Check  ,Personal Expense
+456,Check ,Personal Expense
+457,Card Purchase Fede   TN Card ,Online purchase
+459,Check  ,Personal Expense
+461,Check    Socalgas Arc Pymt Arc ID: ,Gas bill
+462,Orig CO Name:Shopify Capital Orig ID: Desc Date: CO Entry Descr:RflaeIsa Sec:CCD Trace: Eed: Ind ID: Ind Name:Marner Holdings Inc Trn: ,Online purchase
+463,Bill Pay TriState Electric Membership CO onLine  on ,Gas bill
+464,Online Transfer To Chk  Transaction; ,Bank to Bank - Personal transaction
+465,AMERICAN EXPRESS DES:AXP DISCNT ,Online purchase
+466,Online Wire Transfer Via: Wells Fargo NA/ A/C: Aba/ Phoeni AZ Ben: Charles Bruce Wichita KS  US Ref:/Time/: Imad: BQgcC Trn: Es,Bank to Bank - Personal transaction
+467,Wire Trans Svc Charge  Sequence:  Srf  Trn Rfb ,Bank to Bank - Personal transaction
+468,LAZ PARKING  NEWPORT BEACH CA ,Personal Expense
+469,Check ,Personal Expense
+470,Fede   TN Card ,Online purchase
+471,NonChase ATM FeeWithdrawal,Personal Expense
+472,Money Transfer authorized on / ,Bank to Bank - Personal transaction
+473,Check    $. ,Personal Expense
+474,DAVIS AND ASSOC! DES:Payroll ID: ,Deposit
+476,Check  ,Personal Expense
+477,Zelle Payment To Kaner Vonap Jpm,Bank to Bank - Personal transaction
+478,"MERCHANTS FOODSE DES:MERCHANTS ID:FTXXXXXXXXX INDN:NEW AGE VENDING LLC CO ,. ",Food bill
+479,The Springs  Web ID: ,Online purchase
